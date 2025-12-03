@@ -30,3 +30,22 @@ available to you. If you wish to use the exact versions we used, use
 You can then run the individual scripts, for example:
 
     ./env/bin/python DoubleScrollNVAR-RK23.py
+
+Link to Paper
+-------------
+https://www.nature.com/articles/s41467-021-25801-2
+
+BibTeX
+------
+```
+@article{gauthier2021next,
+  title={Next generation reservoir computing},
+  author={Gauthier, Daniel J and Bollt, Erik and Griffith, Aaron and Barbosa, Wendson AS},
+  journal={Nature communications},
+  volume={12},
+  number={1},
+  pages={5564},
+  year={2021},
+  publisher={Nature Publishing Group UK London}
+}
+```
