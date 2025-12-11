@@ -40,12 +40,14 @@ BibTeX
 ```
 @article{gauthier2021next,
   title={Next generation reservoir computing},
-  author={Gauthier, Daniel J and Bollt, Erik and Griffith, Aaron and Barbosa, Wendson AS},
-  journal={Nature communications},
+  author={Gauthier, Daniel J. and Bollt, Erik and Griffith, Aaron and Barbosa, Wendson A. S.},
+  journal={Nature Communications},
   volume={12},
   number={1},
   pages={5564},
   year={2021},
-  publisher={Nature Publishing Group UK London}
+  issn={2041-1723},
+  doi={10.1038/s41467-021-25801-2},
+  url={https://doi.org/10.1038/s41467-021-25801-2}
 }
 ```
